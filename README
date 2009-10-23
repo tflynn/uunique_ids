@@ -1,0 +1,11 @@
+README
+========================================================================
+uunique_ids was developed by: tracy
+
+gem 'uunique_ids','0.1'
+require 'uunique_ids'
+
+UUniqueIds.random_create
+=> (SHA1) 6d480cd113b430b91c9a537b66067edb184a184e
+
+
